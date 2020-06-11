@@ -55,6 +55,7 @@
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Build wash Parameters.vi" Type="VI" URL="../SubVIs/Build wash Parameters.vi"/>
+			<Item Name="FGV Timer.vi" Type="VI" URL="../SubVIs/FGV Timer.vi"/>
 		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -66,6 +67,7 @@
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Car Wash Indicators.ctl" Type="VI" URL="../controls/Car Wash Indicators.ctl"/>
+			<Item Name="Timer Option.ctl" Type="VI" URL="../controls/Timer Option.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 			<Item Name="Wash Options.ctl" Type="VI" URL="../controls/Wash Options.ctl"/>
 		</Item>
